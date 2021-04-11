@@ -1,10 +1,13 @@
-# flutter_firstapp
+# Music Player App (unfinished)
 
-A new Flutter project.
+A Work in Progress Music Player using Flutter project.
 
+[Demo Here](https://flutterfirstapp-f0b2f.web.app/)
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+flutter run
+```
 
 A few resources to get you started if this is your first Flutter project:
 
